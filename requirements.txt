@@ -1,0 +1,4 @@
+numpy>=1.26.0
+pillow>=10.0.0
+python-docx>=1.1.0
+requests>=2.31.0

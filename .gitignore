@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# 本地产物：输出目录、抽帧中间文件、LibreOffice 临时目录、demo 素材
+输出/
+输出测试/
+_frames/
+_lo_tmp/
+demo/*.mp4
+demo/*.srt
+*.mp4
+*.mkv
+*.flv
+*.wav
+*.m4a
+*.part
+*.log
+
+# 密钥与本地环境
+.env
+_local_key.txt
+
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
